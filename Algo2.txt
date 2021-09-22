@@ -1,0 +1,5 @@
+Algo2
+1. Order the Pizza from restraunt
+2. Go to the Pizza shop
+3. Pay for the Pizza
+4. Go home and eat the Pizza
