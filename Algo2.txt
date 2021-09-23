@@ -3,3 +3,5 @@ Algo2
 2. Go to the Pizza shop
 3. Pay for the Pizza
 4. Go home and eat the Pizza
+5.Put the rest of the pizza in the fridge
+6.go to bed
